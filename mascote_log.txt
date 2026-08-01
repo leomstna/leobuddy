@@ -1,0 +1,16 @@
+[16:29:39] === DIAGNÓSTICO ===
+Janela Ativa: tk
+Processo: pythonw.exe
+Webcam: False
+Spotify: False
+Streaming: False
+Tela Cheia: False
+===================
+[16:30:48] === DIAGNÓSTICO ===
+Janela Ativa: tk
+Processo: pythonw.exe
+Webcam: False
+Spotify: False
+Streaming: False
+Tela Cheia: False
+===================

@@ -1,0 +1,14 @@
+# Dependência OPCIONAL - melhora a detecção de Spotify/streaming usando a
+# API de mídia nativa do Windows (SMTC), mas o programa funciona sem ela
+# (cai automaticamente pro método antigo de ler o título da janela).
+#
+# Se o comando abaixo falhar (comum em versões muito novas do Python, tipo
+# 3.13/3.14, porque ainda não existe wheel pré-compilada), pode ignorar
+# e seguir sem ela - não trava o resto do app:
+#
+#   pip install -r requirements-opcional.txt
+#
+# Se falhar, uma alternativa é usar o Python 3.11 ou 3.12 só pra rodar o
+# mascote (o winsdk costuma ter wheel pronta pra essas versões).
+
+winsdk
